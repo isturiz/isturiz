@@ -1,3 +1,4 @@
+~~~ json
 {
   "name": "Mauricio Istúriz",
   "tagline": "Details matter",
@@ -18,3 +19,4 @@
     }
   ]
 }
+~~~
