@@ -1,4 +1,4 @@
-~~~ json
+ ~~~ json
 {
   "name": "Mauricio Istúriz",
   "tagline": "Details matter",
@@ -9,7 +9,7 @@
     "github": "https://github.com/isturiz"
   },
   "interests": [
-    "React", "Node.js", "Astro.build", "Python", "Nest.js", "Linux"
+    "Odoo", "Python", "JavaScript", "Astro.build", "Linux"
   ],
   "projects": [
     {
