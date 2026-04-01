@@ -3,14 +3,14 @@
 Experience
 ---
 
-I make things with [Odoo](https://github.com/odoo/odoo) and try not to break anything. If something works, (I cry) and I keep it.
+I make things with [Odoo](https://github.com/odoo/odoo) and try not to break anything.
 
 Now, seriously, details matter.
 
 Hobbies
 ---
 
-- I enjoy breaking things in my [environment](https://github.com/isturiz/config) and trying CLI tools.
+- I breaking things in my [environment](https://github.com/isturiz/config) and trying CLI tools.
 - I use Neovim to be an objectively superior programmer.
 - I just use macOS because the battery is fine.
 
